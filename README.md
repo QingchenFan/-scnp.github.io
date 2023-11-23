@@ -1,1 +1,1 @@
-# -scnp.github.io
+# scnp.github.io
